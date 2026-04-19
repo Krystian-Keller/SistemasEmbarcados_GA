@@ -1,0 +1,22 @@
+dependencies:
+  espp/base_peripheral: '>=1.0'
+  idf:
+    version: '>=5.0'
+description: Adxl345 I2C Accelerometer component for ESP-IDF
+documentation: https://esp-cpp.github.io/espp/accelerometers/adxl345.html
+license: MIT
+maintainers:
+- William Emfinger <waemfinger@gmail.com>
+repository: git://github.com/esp-cpp/espp.git
+repository_info:
+  commit_sha: 32e8215eeb6e1757e074abeb963b2d320bbdd390
+  path: components/adxl345
+tags:
+- cpp
+- Component
+- Accelerometer
+- I2C
+- Peripheral
+- IMU
+url: https://github.com/esp-cpp/espp/tree/main/components/adxl345
+version: 1.0.36
