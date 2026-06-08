@@ -20,7 +20,7 @@
 #define WIFI_SSID      "Eduardo"
 #define WIFI_PASSWORD  "escoteiro12"
 
-#define MQTT_BROKER_URI "mqtts://test.mosquitto.org:8886"
+#define MQTT_BROKER_URI "mqtts://broker.hivemq.com:1883"
 
 #define ALARM_TIMEOUT_MS      5000 
 #define SAMPLE_PERIOD_MS      500
